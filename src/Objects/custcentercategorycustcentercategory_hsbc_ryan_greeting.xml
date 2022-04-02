@@ -1,0 +1,13 @@
+<centercategory scriptid="custcentercategorycustcentercategory_hsbc_ryan_greeting">
+  <center>BASIC</center>
+  <centertab>[scriptid=custcentertabcustomcentertab_hsbc_ryantest]</centertab>
+  <label>Greeting</label>
+  <links>
+    <link>
+      <linklabel>Link1 Updated</linklabel>
+      <linkobject>[scriptid=custlink_12_t2481310_893]</linkobject>
+      <linktasktype>LINK</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

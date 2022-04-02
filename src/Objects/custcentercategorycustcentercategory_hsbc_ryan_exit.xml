@@ -1,0 +1,13 @@
+<centercategory scriptid="custcentercategorycustcentercategory_hsbc_ryan_exit">
+  <center>BASIC</center>
+  <centertab>[scriptid=custcentertabcustomcentertab_hsbc_ryantest]</centertab>
+  <label>Exit</label>
+  <links>
+    <link>
+      <linklabel>Link2 Updated</linklabel>
+      <linkobject>[scriptid=custlink_13_t2481310_330]</linkobject>
+      <linktasktype>LINK</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

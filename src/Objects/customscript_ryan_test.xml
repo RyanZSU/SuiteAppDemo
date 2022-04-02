@@ -1,0 +1,15 @@
+<usereventscript scriptid="customscript_ryan_test">
+    <description></description>
+    <isinactive></isinactive>
+    <name>SDF Tutorial Ryan Test User Event</name>
+    <notifyowner>T</notifyowner>
+    <scriptfile>[/SuiteScripts/usereventscript_ryan_test.js]</scriptfile>
+    <scriptdeployments>
+        <scriptdeployment scriptid="customdeploy_ue_ryan_test">
+            <isdeployed>T</isdeployed>
+            <loglevel>DEBUG</loglevel>
+            <recordtype>[customrecord_ryan_test]</recordtype>
+            <status>TESTING</status>
+        </scriptdeployment>
+    </scriptdeployments>
+</usereventscript>

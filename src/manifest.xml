@@ -1,0 +1,16 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>first-app</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="true">CUSTOMRECORDS</feature>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="false">CREATESUITEBUNDLES</feature>
+      <feature required="false">CRM</feature>
+    </features>
+    <objects>
+      <object>custlink_12_t2481310_893</object>
+      <object>custlink_13_t2481310_330</object>
+    </objects>
+  </dependencies>
+</manifest>

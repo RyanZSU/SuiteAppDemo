@@ -1,0 +1,10 @@
+<centertab scriptid="custcentertabcustomcentertab_hsbc_ryantest">
+  <allcustomers>F</allcustomers>
+  <allemployees>F</allemployees>
+  <allpartners>F</allpartners>
+  <allroles>T</allroles>
+  <allvendors>F</allvendors>
+  <audslctrole></audslctrole>
+  <center>ALL</center>
+  <label>Ryan Test</label>
+</centertab>
